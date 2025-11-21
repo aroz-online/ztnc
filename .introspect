@@ -1,0 +1,19 @@
+{
+ "id": "org.aroz.zoraxy.ztnc",
+ "name": "ztnc",
+ "author": "aroz.org",
+ "author_contact": "zoraxy.aroz.org",
+ "description": "UI for ZeroTier Network Controller",
+ "url": "https://zoraxy.aroz.org",
+ "type": 1,
+ "version_major": 2,
+ "version_minor": 0,
+ "version_patch": 0,
+ "static_capture_paths": null,
+ "static_capture_ingress": "",
+ "dynamic_capture_sniff": "",
+ "dynamic_capture_ingress": "",
+ "ui_path": "/ui",
+ "subscription_path": "",
+ "subscriptions_events": null
+}
